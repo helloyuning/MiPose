@@ -1,4 +1,4 @@
 # MiPose
-Official Implement of MiPose: Hybrid-Modality Guided Structure Graph Decoupling for Category-Level 9DoF Pose Estimation
+Official Implementation of MiPose: Hybrid-Modality Guided Structure Graph Decoupling for Category-Level 9DoF Pose Estimation
 
-Code coming soon
+The code will be released soon...
